@@ -1,0 +1,18 @@
+body, html{
+    background: white;
+    color: black;
+    font-size: 1em;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+}
+
+.students{
+    margin: 2em 0;
+}
+
+.students__fio{
+    color: green;
+    margin-bottom: 1em;
+}
